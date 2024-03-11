@@ -1,4 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I’m Mercy Wambui Mwangi
+- 👀 I’m interested in Data Science & Machine Learning
+- 🌱 On a continuous loop for Python, SQL & GeoPandas.
+- 💞 I’m looking to collaborate on projects that touch on the same.
+- 📫 How to reach me mwangi25.mercy@gmail.com
+
+
+
 
 <!--
 **WamzMwangi/WamzMwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

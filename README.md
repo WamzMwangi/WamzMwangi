@@ -5,8 +5,8 @@ On my journey to make agriculture smarter, this year I have been tinkering with 
 
 ### Tech Stack
 ---
-<img src="{https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white}" />
-![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+
 
 
 <!--

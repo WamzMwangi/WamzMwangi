@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Mercy Wambui Mwangi
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 On a continuous loop for Python, SQL & GeoPandas.
-- 💞 I’m looking to collaborate on projects that touch on the same.
-- 📫 How to reach me mwangi25.mercy@gmail.com
-
-
+AgData Scientist🌾| Data Detective 🔍| Remote Sensing 🛰️|Computer Vision Practitioner👁️‍🗨️
 
 
 <!--
